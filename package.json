@@ -60,7 +60,7 @@
   "dependencies": {
     "@ai-sdk/openai-compatible": "^3.0.55",
     "@ai-sdk/react": "^4.0.116",
-    "@modelcontextprotocol/server": "^2.1.0",
+    "@modelcontextprotocol/server": "^2.3.0",
     "@radix-ui/react-dialog": "^1.1.15",
     "@radix-ui/react-dropdown-menu": "^2.1.16",
     "@radix-ui/react-label": "^2.1.8",
@@ -83,7 +83,7 @@
     "lucide-react": "^1.16.0",
     "mimetext": "^3.0.28",
     "nanoid": "^5.1.16",
-    "next": "16.3.3",
+    "next": "16.4.2",
     "nodemailer": "^10.0.9",
     "parse-srcset": "^1.0.2",
     "parse5": "^8.0.1",
@@ -103,7 +103,7 @@
     "zod": "^4.4.3"
   },
   "devDependencies": {
-    "@cloudflare/vite-plugin": "^1.61.0",
+    "@cloudflare/vite-plugin": "^1.64.0",
     "@cloudflare/workers-types": "^5.20260828.1",
     "@eslint/eslintrc": "^3",
     "@tailwindcss/postcss": "^4",
@@ -126,8 +126,8 @@
     "tailwindcss": "^4",
     "tsx": "^4.23.13",
     "typescript": "^5.7.4",
-    "vite": "^8.0.0",
-    "wrangler": "^4.127.1"
+    "vite": "^8.3.5",
+    "wrangler": "^4.151.0"
   },
   "overrides": {
     "@esbuild-kit/core-utils": {
